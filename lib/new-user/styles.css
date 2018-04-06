@@ -30,8 +30,8 @@ h2 {
     border: 1px solid #2c3e50;
     background-color: white;
     margin: auto;
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     margin-top: 40px;
     border-radius: 2%;
 }
@@ -39,9 +39,9 @@ h2 {
 .login-input {
     display: block;
     height: 40px;
-    width: 280px;
+    width: 380px;
     margin-left: 10px;
-    margin-top: 10px;
+    margin-top: 20px;
     font-size: 18px;
     border: none;
     border-bottom: 1px solid #2c3e50;
@@ -51,7 +51,7 @@ h2 {
 .login-submit {
     display: block;
     height: 40px;
-    width: 280px;
+    width: 380px;
     margin-left: 10px;
     margin-top: 20px;
     border: 1px solid #2c3e50;
@@ -74,4 +74,8 @@ h2 {
 .user-info-right {
     float: right;
     margin-right: 10px;
+}
+
+.new-user-info {
+    margin: 10px 10px;
 }
